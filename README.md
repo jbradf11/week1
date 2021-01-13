@@ -13,16 +13,24 @@ example
 
 `git push` check status of the repository
 
+`git checkout` to recover or checkout files from last commit
+
 ## Basic Bash Commands
 
-`pwd`
+`pwd` print working directory
 
-`cd`
+`cd`  change directory
 
-`ls`
+`ls` list contents of current directory
 
-`ls -a`
+`ls -a` list contents with hidden files
 
-`mkdir`
+`mkdir` make a new directory
 
-`touch`
+`touch` make a new file
+
+`cat` print file to standard output
+
+`echo` print to standard output
+
+`echo >> file` append to end of file
